@@ -1,5 +1,7 @@
-### Hi! I'm Lisa ✨
-# 💫 About Me:
+# Hi! I'm Lisa ✨
+My fullname is Dhanika Novlisariyanti, but please call me Lisa. 
+
+## 💫 About Me:
 🎓 Currently in my final year of university in Informatics Engineering.<br>
 ☕ Brewing hard on my final project 😥.<br>
 💻 Genuinely enjoy UI/UX design and front-end development.<br>
