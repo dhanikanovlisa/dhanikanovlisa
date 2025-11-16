@@ -2,8 +2,8 @@
 My fullname is Dhanika Novlisariyanti, but please call me Lisa. 
 
 ## 💫 About Me:
-🎓 Currently in my final year of university in Informatics Engineering.<br>
-☕ Brewing hard on my final project 😥.<br>
+🎓 I finally graduated from ITB 😁.<br>
+☕ Brewing hard on my final project (IVE DONE IT)😥.<br>
 💻 Genuinely enjoy UI/UX design and front-end development.<br>
 👩‍💻 Currently diving into the world of infrastructures and cloud technologies
 
